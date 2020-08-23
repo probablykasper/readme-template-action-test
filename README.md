@@ -58,6 +58,6 @@
 
 | ⭐️Stars   | 📦Repo    | 📚Description |
 | --------- | ----------- | -------------- |
-| 0 | [probablykasper/readme-template-action-test](https://github.com/probablykasper/readme-template-action-test) | test repo for readme-template-action |
 | 0 | [probablykasper/readme-template-action](https://github.com/probablykasper/readme-template-action) | Fills in variables (with loop support) from a TEMPLATE.md into a README.md |
+| 0 | [probablykasper/readme-template-action-test](https://github.com/probablykasper/readme-template-action-test) | test repo for readme-template-action |
 | 0 | [probablykasper/cpc](https://github.com/probablykasper/cpc) | Text calculator with support for units and conversion |
