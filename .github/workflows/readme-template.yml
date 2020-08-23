@@ -12,7 +12,7 @@ jobs:
       with:
         fetch-depth: 0
     - name: Generate README.md
-      uses: probablykasper/readme-template
+      uses: probablykasper/readme-template-action
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         template: TEMPLATE.md
