@@ -7,7 +7,6 @@ module.exports = {
     type: 'specificRepos',
     repos: [
       'vidl',
-      'golang/go',
       'probablykasper/embler',
     ],
     modifyVariables: function(repo, moment, user) {
@@ -109,7 +108,7 @@ module.exports = {
 | ⭐️Stars   | 📦Repo    | 📚Description |
 | --------- | ----------- | -------------- |
 {{ loop 3_NEWEST_REPOS }}
-| {{ REPO_STARS }} | [{{ REPO_FULL_NAME }}]({{ REPO_URL }}) ({{REPO_LANGUAGE}}) | {{ REPO_DESCRIPTION }} |
+| {{ REPO_STARS }} | [{{ REPO_FULL_NAME }}]({{ REPO_URL }}) ({{ REPO_LANGUAGE }}) | {{ REPO_DESCRIPTION }} |
 {{ end 3_NEWEST_REPOS }}
 
 ## 3 recently pushed repos
