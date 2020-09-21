@@ -3,15 +3,14 @@
 
 ## latest vidl release (custom)
 
-[vidl 3.5.0](https://github.com/probablykasper/vidl/releases/tag/3.5.0) (22 days ago)
+[vidl v3.5.1](https://github.com/probablykasper/vidl/releases/tag/v3.5.1) (16 days ago)
 
 ## Specific repos (custom)
 
 | ⭐️Stars   | 🗓Created | 📦Repo    | 📚Description |
 | --------- | -------- | ----------- | -------------- |
-| 1 | 2017 October 4th | [probablykasper/vidl](https://github.com/probablykasper/vidl) | Python script for downloading video/audio |
-| 75710 | 2014 August 19th | [golang/go](https://github.com/golang/go) | The Go programming language |
-| 0 | 2020 August 16th | [probablykasper/embler](https://github.com/probablykasper/embler) | Turn binaries into applications |
+| 1 | 2017 October 4th | [probablykasper/vidl](https://github.com/probablykasper/vidl) (Python) | Python script for downloading video/audio |
+| 1 | 2020 August 16th | [probablykasper/embler](https://github.com/probablykasper/embler) (JavaScript) | Turn binaries into applications |
 
 ## 2 most starred repos list (custom)
 
@@ -36,11 +35,11 @@
   - **SIGNUP_DATE**: March 4th 2015
   - **SIGNUP_DATE2**: 2015-03-04
   - **SIGNUP_YEAR**: 2015
-  - **SIGNUP_AGO**: 5 years ago
-- **TOTAL_REPOS_SIZE_KB**: 707595
-  - **TOTAL_REPOS_SIZE_MB**: 707.6
-  - **TOTAL_REPOS_SIZE_GB**: 0.71
-- **TOTAL_REPOSITORIES**: 47
+  - **SIGNUP_AGO**: 6 years ago
+- **TOTAL_REPOS_SIZE_KB**: 727206
+  - **TOTAL_REPOS_SIZE_MB**: 727.2
+  - **TOTAL_REPOS_SIZE_GB**: 0.73
+- **TOTAL_REPOSITORIES**: 52
 
 ## 3 most starred repos
 
@@ -50,14 +49,14 @@
 
 | ⭐️Stars   | 📦Repo    | 📚Description |
 | --------- | ----------- | -------------- |
-| 0 | [probablykasper/readme-template-action-test](https://github.com/probablykasper/readme-template-action-test) ({{REPO_LANGUAGE}}) | test repo for readme-template-action |
-| 0 | [probablykasper/readme-template-action](https://github.com/probablykasper/readme-template-action) ({{REPO_LANGUAGE}}) | Fills in variables (with loop support) from a TEMPLATE.md into a README.md |
-| 0 | [probablykasper/embler](https://github.com/probablykasper/embler) ({{REPO_LANGUAGE}}) | Turn binaries into applications |
+| 0 | [probablykasper/readme-template-action-test](https://github.com/probablykasper/readme-template-action-test) (None) | null |
+| 0 | [probablykasper/awesome-rust](https://github.com/probablykasper/awesome-rust) (Rust) | A curated list of Rust code and resources. |
+| 0 | [probablykasper/awesome-github-profile-readme](https://github.com/probablykasper/awesome-github-profile-readme) (JavaScript) | 😎 A curated list of awesome Github Profile READMEs 📝 |
 
 ## 3 recently pushed repos
 
 | ⭐️Stars   | 📦Repo    | 📚Description |
 | --------- | ----------- | -------------- |
-| 0 | [probablykasper/readme-template-action-test](https://github.com/probablykasper/readme-template-action-test) | test repo for readme-template-action |
-| 0 | [probablykasper/probablykasper](https://github.com/probablykasper/probablykasper) | null |
+| 0 | [probablykasper/readme-template-action-test](https://github.com/probablykasper/readme-template-action-test) | null |
 | 0 | [probablykasper/my-bash-scripts](https://github.com/probablykasper/my-bash-scripts) | My personal bash scripts |
+| 0 | [probablykasper/probablykasper](https://github.com/probablykasper/probablykasper) | null |
