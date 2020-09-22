@@ -36,7 +36,7 @@
   - **SIGNUP_DATE2**: 2015-03-04
   - **SIGNUP_YEAR**: 2015
   - **SIGNUP_AGO**: 6 years ago
-- **TOTAL_REPOS_SIZE_KB**: 727206
+- **TOTAL_REPOS_SIZE_KB**: 727231
   - **TOTAL_REPOS_SIZE_MB**: 727.2
   - **TOTAL_REPOS_SIZE_GB**: 0.73
 - **TOTAL_REPOSITORIES**: 52
@@ -57,6 +57,6 @@
 
 | ⭐️Stars   | 📦Repo    | 📚Description |
 | --------- | ----------- | -------------- |
+| 3 | [probablykasper/cpc](https://github.com/probablykasper/cpc) | Text calculator with support for units and conversion |
 | 0 | [probablykasper/readme-template-action-test](https://github.com/probablykasper/readme-template-action-test) | null |
 | 0 | [probablykasper/my-bash-scripts](https://github.com/probablykasper/my-bash-scripts) | My personal bash scripts |
-| 0 | [probablykasper/probablykasper](https://github.com/probablykasper/probablykasper) | null |
