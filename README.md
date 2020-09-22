@@ -3,7 +3,7 @@
 
 ## latest vidl release (custom)
 
-[vidl v3.5.1](https://github.com/probablykasper/vidl/releases/tag/v3.5.1) (16 days ago)
+[vidl v3.5.1](https://github.com/probablykasper/vidl/releases/tag/v3.5.1) (17 days ago)
 
 ## Specific repos (custom)
 
@@ -36,10 +36,10 @@
   - **SIGNUP_DATE2**: 2015-03-04
   - **SIGNUP_YEAR**: 2015
   - **SIGNUP_AGO**: 6 years ago
-- **TOTAL_REPOS_SIZE_KB**: 727231
-  - **TOTAL_REPOS_SIZE_MB**: 727.2
+- **TOTAL_REPOS_SIZE_KB**: 727319
+  - **TOTAL_REPOS_SIZE_MB**: 727.3
   - **TOTAL_REPOS_SIZE_GB**: 0.73
-- **TOTAL_REPOSITORIES**: 52
+- **TOTAL_REPOSITORIES**: 53
 
 ## 3 most starred repos
 
@@ -57,6 +57,6 @@
 
 | ⭐️Stars   | 📦Repo    | 📚Description |
 | --------- | ----------- | -------------- |
-| 3 | [probablykasper/cpc](https://github.com/probablykasper/cpc) | Text calculator with support for units and conversion |
 | 0 | [probablykasper/readme-template-action-test](https://github.com/probablykasper/readme-template-action-test) | null |
-| 0 | [probablykasper/my-bash-scripts](https://github.com/probablykasper/my-bash-scripts) | My personal bash scripts |
+| 0 | [probablykasper/playgroundx](https://github.com/probablykasper/playgroundx) | null |
+| 3 | [probablykasper/cpc](https://github.com/probablykasper/cpc) | Text calculator with support for units and conversion |
