@@ -3,7 +3,7 @@
 
 ## latest vidl release (custom)
 
-[vidl v3.5.1](https://github.com/probablykasper/vidl/releases/tag/v3.5.1) (18 days ago)
+[vidl v3.5.1](https://github.com/probablykasper/vidl/releases/tag/v3.5.1) (19 days ago)
 
 ## Specific repos (custom)
 
@@ -36,7 +36,7 @@
   - **SIGNUP_DATE2**: 2015-03-04
   - **SIGNUP_YEAR**: 2015
   - **SIGNUP_AGO**: 6 years ago
-- **TOTAL_REPOS_SIZE_KB**: 727321
+- **TOTAL_REPOS_SIZE_KB**: 727322
   - **TOTAL_REPOS_SIZE_MB**: 727.3
   - **TOTAL_REPOS_SIZE_GB**: 0.73
 - **TOTAL_REPOSITORIES**: 53
