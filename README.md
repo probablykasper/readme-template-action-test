@@ -3,7 +3,7 @@
 
 ## latest vidl release (custom)
 
-[vidl v3.5.1](https://github.com/probablykasper/vidl/releases/tag/v3.5.1) (20 days ago)
+[vidl v3.5.1](https://github.com/probablykasper/vidl/releases/tag/v3.5.1) (21 days ago)
 
 ## Specific repos (custom)
 
