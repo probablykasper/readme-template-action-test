@@ -3,7 +3,7 @@
 
 ## latest vidl release (custom)
 
-[vidl v3.5.1](https://github.com/probablykasper/vidl/releases/tag/v3.5.1) (24 days ago)
+[vidl v3.5.1](https://github.com/probablykasper/vidl/releases/tag/v3.5.1) (25 days ago)
 
 ## Specific repos (custom)
 
@@ -16,7 +16,7 @@
 
 ⭐️ 10 [probablykasper/chester-syntax](https://github.com/probablykasper/chester-syntax): A pretty Atom syntax theme based on Lonely Planet colours
 
-⭐️ 4 [probablykasper/homebrew-tap](https://github.com/probablykasper/homebrew-tap): My Homebrew casks and formulas
+⭐️ 4 [probablykasper/cpc](https://github.com/probablykasper/cpc): Text calculator with support for units and conversion
 
 
 ## Me
@@ -36,7 +36,7 @@
   - **SIGNUP_DATE2**: 2015-03-04
   - **SIGNUP_YEAR**: 2015
   - **SIGNUP_AGO**: 6 years ago
-- **TOTAL_REPOS_SIZE_KB**: 727326
+- **TOTAL_REPOS_SIZE_KB**: 727327
   - **TOTAL_REPOS_SIZE_MB**: 727.3
   - **TOTAL_REPOS_SIZE_GB**: 0.73
 - **TOTAL_REPOSITORIES**: 53
@@ -57,6 +57,6 @@
 
 | ⭐️Stars   | 📦Repo    | 📚Description |
 | --------- | ----------- | -------------- |
+| 0 | [probablykasper/probablykasper](https://github.com/probablykasper/probablykasper) | null |
 | 0 | [probablykasper/readme-template-action-test](https://github.com/probablykasper/readme-template-action-test) | null |
 | 0 | [probablykasper/playground](https://github.com/probablykasper/playground) | null |
-| 3 | [probablykasper/cpc](https://github.com/probablykasper/cpc) | Text calculator with support for units and conversion |
