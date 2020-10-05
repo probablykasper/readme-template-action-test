@@ -1,5 +1,6 @@
 # Example
 
+Actions can be turned on/off for this repo in Settings > Actions > Actions permissions.
 
 ## latest vidl release (custom)
 
