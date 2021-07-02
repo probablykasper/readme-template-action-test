@@ -99,6 +99,10 @@ module.exports = {
   - **TOTAL_REPOS_SIZE_GB**: {{ TOTAL_REPOS_SIZE_GB }}
 - **TOTAL_REPOSITORIES**: {{ TOTAL_REPOSITORIES }}
 
+## Current Repository
+
+{{ CURRENT_REPO_FULL_NAME }}
+
 ## 3 most starred repos
 
 (deleted)
