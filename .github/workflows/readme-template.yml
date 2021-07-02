@@ -1,7 +1,5 @@
 name: Readme Template
 on:
-  schedule:
-    - cron: '0 */336 * * *' # every 2 hours
   push:
     branches: [ master ]
   workflow_dispatch:
